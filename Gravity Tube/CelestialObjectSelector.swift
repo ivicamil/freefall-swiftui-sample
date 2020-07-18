@@ -51,7 +51,7 @@ private struct ObjectPicker: View {
     }
 }
 
-struct CelectialObjectSelector_Previews: PreviewProvider {
+struct CelestialObjectSelector_Previews: PreviewProvider {
     static var previews: some View {
         CelestialObjectSelector(object: .constant(.earth))
     }

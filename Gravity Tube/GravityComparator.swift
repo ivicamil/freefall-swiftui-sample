@@ -16,11 +16,11 @@ struct GravityComparator: View {
             
             HStack {
                 VStack {
-                    CelectialObjectSelector(object: $object1).disabled(!canChangeObject)
+                    CelestialObjectSelector(object: $object1).disabled(!canChangeObject)
                     FreeFallTube(dropped: dropped, location: object1)
                 }
                 VStack {
-                    CelectialObjectSelector(object: $object2).disabled(!canChangeObject)
+                    CelestialObjectSelector(object: $object2).disabled(!canChangeObject)
                     FreeFallTube(dropped: dropped, location: object2)
                 }
             }

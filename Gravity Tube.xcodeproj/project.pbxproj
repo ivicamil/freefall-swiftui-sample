@@ -16,8 +16,7 @@
 		3B8B98CC24C2624900FFAF1F /* FreeFallTube.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B8B98CB24C2624900FFAF1F /* FreeFallTube.swift */; };
 		3B8B98CE24C2629200FFAF1F /* GravityComparator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B8B98CD24C2629200FFAF1F /* GravityComparator.swift */; };
 		3B8B98D024C2639700FFAF1F /* CelestialObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B8B98CF24C2639700FFAF1F /* CelestialObject.swift */; };
-		3B8B98D224C3199C00FFAF1F /* CelectialObjectSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B8B98D124C3199C00FFAF1F /* CelectialObjectSelector.swift */; };
-		3B8B98D624C3602500FFAF1F /* Screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B8B98D524C3602500FFAF1F /* Screenshot.png */; };
+		3B8B98D224C3199C00FFAF1F /* CelestialObjectSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B8B98D124C3199C00FFAF1F /* CelestialObjectSelector.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,8 +31,7 @@
 		3B8B98CB24C2624900FFAF1F /* FreeFallTube.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FreeFallTube.swift; sourceTree = "<group>"; };
 		3B8B98CD24C2629200FFAF1F /* GravityComparator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GravityComparator.swift; sourceTree = "<group>"; };
 		3B8B98CF24C2639700FFAF1F /* CelestialObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CelestialObject.swift; sourceTree = "<group>"; };
-		3B8B98D124C3199C00FFAF1F /* CelectialObjectSelector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CelectialObjectSelector.swift; sourceTree = "<group>"; };
-		3B8B98D524C3602500FFAF1F /* Screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot.png; sourceTree = "<group>"; };
+		3B8B98D124C3199C00FFAF1F /* CelestialObjectSelector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CelestialObjectSelector.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,10 +68,9 @@
 				3B8B98B924C256F600FFAF1F /* SceneDelegate.swift */,
 				3B8B98CF24C2639700FFAF1F /* CelestialObject.swift */,
 				3B8B98CB24C2624900FFAF1F /* FreeFallTube.swift */,
-				3B8B98D124C3199C00FFAF1F /* CelectialObjectSelector.swift */,
+				3B8B98D124C3199C00FFAF1F /* CelestialObjectSelector.swift */,
 				3B8B98CD24C2629200FFAF1F /* GravityComparator.swift */,
 				3B8B98BB24C256F600FFAF1F /* ContentView.swift */,
-				3B8B98D524C3602500FFAF1F /* Screenshot.png */,
 				3B8B98BD24C256F900FFAF1F /* Assets.xcassets */,
 				3B8B98C224C256F900FFAF1F /* LaunchScreen.storyboard */,
 				3B8B98C524C256F900FFAF1F /* Info.plist */,
@@ -148,7 +145,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3B8B98D624C3602500FFAF1F /* Screenshot.png in Resources */,
 				3B8B98C424C256F900FFAF1F /* LaunchScreen.storyboard in Resources */,
 				3B8B98C124C256F900FFAF1F /* Preview Assets.xcassets in Resources */,
 				3B8B98BE24C256F900FFAF1F /* Assets.xcassets in Resources */,
@@ -165,7 +161,7 @@
 				3B8B98CC24C2624900FFAF1F /* FreeFallTube.swift in Sources */,
 				3B8B98B824C256F600FFAF1F /* AppDelegate.swift in Sources */,
 				3B8B98CE24C2629200FFAF1F /* GravityComparator.swift in Sources */,
-				3B8B98D224C3199C00FFAF1F /* CelectialObjectSelector.swift in Sources */,
+				3B8B98D224C3199C00FFAF1F /* CelestialObjectSelector.swift in Sources */,
 				3B8B98BA24C256F600FFAF1F /* SceneDelegate.swift in Sources */,
 				3B8B98D024C2639700FFAF1F /* CelestialObject.swift in Sources */,
 				3B8B98BC24C256F600FFAF1F /* ContentView.swift in Sources */,
